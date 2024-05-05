@@ -1,0 +1,18 @@
+{
+  "name": "mx22-student-managment-system",
+  "version": "1.0.0",
+  "description": "This is a cli based  Student managment system using Typescripte,Javascripte,NodeJs and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haider Hussain",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
